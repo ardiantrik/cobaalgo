@@ -2,7 +2,9 @@
 #include <iomanip>
 using namespace std;
 void banyakPecahan(long uang_kembali, long pecahan[]);
-
+//===============================================
+//BTW ini contoh penerapan soal 2 yak, ini pokonya tentang kasir2, solusi soal 2 ada di fungsi void banyakPecahan
+//===============================================
 int main()
 {
 	long harga[5], total_bayar=0,uang_bayar,uang_kembali, pecahan[9]={50000,20000,10000,5000,2000,1000,500,200,100};
